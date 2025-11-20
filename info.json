@@ -1,7 +1,7 @@
 {
     "js": {
-        "name": "Evan Zhou",
-        "github": "EvanZhouDev",
+        "name": "Gabriel Quintino",
+        "github": "Billocap",
         "run": "node donut.js"
     },
     "py": {
